@@ -10,3 +10,6 @@ func main() {
 	a := ABE.AbeHiroshi()
 	fmt.Println(a)
 }
+func AbeHiroshi() string {
+	return "http://abehiroshi.la.coocan.jp/"
+}
